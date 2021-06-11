@@ -1,0 +1,2 @@
+# spotifySelect
+spotifySelect is a repo to find songs that represent what an indivudial might like. I will itereate on this. Given a few people who have a spotify profile, lets find a few songs that all these individualls might like in a party. Lets interate upon this. This is a noble idea but not be a very good one but also a one that something that anyone might want in future. Lets try it. Who cares if I fail, it was fun. Also, Drake is the GOAT.
