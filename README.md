@@ -1,2 +1,2 @@
-# moodSwing
-moodSwing is a repo to find songs that represent what an indivudial might like. I will itereate on this. Given a few people who have a spotify profile, lets find a few songs that all these individualls might like in a party. Lets interate upon this. This is a noble idea but not be a very good one but also a one that something that anyone might want in future. Lets try it. Who cares if I fail, it was fun. Also, Drake is the GOAT.
+# spotifySelect
+spotifySelect is a repo to rank songs in a group setting. Users can go over to the webapp, start a session and start adding songs to the queue. The queue is displayed to the users. The users can upvote or downvote to change the order in which the songs should be played. It uses the Spotify API to get the songs. It is written in Python and uses FastAPI for the backend and SolidJS for the frontend. It is currently hosted on Heroku at https://spotifyselect.herokuapp.com/.
